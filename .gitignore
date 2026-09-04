@@ -1,2 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
 inputs.xlsx
 .DS_Store
+.env
